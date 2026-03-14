@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimComm/media/videos/practice/480p15/partial_movie_files/Polar/3356625919_1616261135_223132457.mp4'
+file 'file:D:/ManimComm/media/videos/practice/480p15/partial_movie_files/Polar/2185523337_1121617232_1248375679.mp4'
+file 'file:D:/ManimComm/media/videos/practice/480p15/partial_movie_files/Polar/2185523337_1419117055_184974057.mp4'
+file 'file:D:/ManimComm/media/videos/practice/480p15/partial_movie_files/Polar/2185523337_2866336862_3892858764.mp4'
+file 'file:D:/ManimComm/media/videos/practice/480p15/partial_movie_files/Polar/2185523337_852269699_1616927130.mp4'
+file 'file:D:/ManimComm/media/videos/practice/480p15/partial_movie_files/Polar/2185523337_688717434_230812396.mp4'
+file 'file:D:/ManimComm/media/videos/practice/480p15/partial_movie_files/Polar/2185523337_1831374817_3126150749.mp4'

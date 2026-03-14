@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimComm/media/videos/spring/1080p60/partial_movie_files/Spring/4088095949_1195333023_2070386869.mp4'
+file 'file:D:/ManimComm/media/videos/spring/1080p60/partial_movie_files/Spring/656282500_1843281649_2579905041.mp4'
+file 'file:D:/ManimComm/media/videos/spring/1080p60/partial_movie_files/Spring/656282500_2884471873_3934097504.mp4'
+file 'file:D:/ManimComm/media/videos/spring/1080p60/partial_movie_files/Spring/656282500_2884471873_4287820490.mp4'
+file 'file:D:/ManimComm/media/videos/spring/1080p60/partial_movie_files/Spring/656282500_2884471873_3321108314.mp4'
+file 'file:D:/ManimComm/media/videos/spring/1080p60/partial_movie_files/Spring/656282500_789064381_2606786904.mp4'

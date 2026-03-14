@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimComm/media/videos/waves/480p15/partial_movie_files/WhiteLightAsASum/1463351122_1831374817_197529675.mp4'
+file 'file:D:/ManimComm/media/videos/waves/480p15/partial_movie_files/WhiteLightAsASum/4053677712_639496073_1410062962.mp4'
+file 'file:D:/ManimComm/media/videos/waves/480p15/partial_movie_files/WhiteLightAsASum/1871531021_2554370955_42156410.mp4'
+file 'file:D:/ManimComm/media/videos/waves/480p15/partial_movie_files/WhiteLightAsASum/3237594559_1685566128_777070496.mp4'
+file 'file:D:/ManimComm/media/videos/waves/480p15/partial_movie_files/WhiteLightAsASum/1865326462_4187173555_2902628892.mp4'

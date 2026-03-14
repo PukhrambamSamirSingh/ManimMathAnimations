@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimComm/media/videos/practice/480p15/partial_movie_files/PracticeOscillation/238433677_3820859715_223132457.mp4'
+file 'file:D:/ManimComm/media/videos/practice/480p15/partial_movie_files/PracticeOscillation/432527821_1121617232_1787965022.mp4'
+file 'file:D:/ManimComm/media/videos/practice/480p15/partial_movie_files/PracticeOscillation/432527821_1366194804_3264213712.mp4'
+file 'file:D:/ManimComm/media/videos/practice/480p15/partial_movie_files/PracticeOscillation/432527821_1504966796_557747468.mp4'
+file 'file:D:/ManimComm/media/videos/practice/480p15/partial_movie_files/PracticeOscillation/432527821_2003777674_470373676.mp4'
+file 'file:D:/ManimComm/media/videos/practice/480p15/partial_movie_files/PracticeOscillation/432527821_1121617232_1126898991.mp4'
+file 'file:D:/ManimComm/media/videos/practice/480p15/partial_movie_files/PracticeOscillation/432527821_925946627_3355919649.mp4'
+file 'file:D:/ManimComm/media/videos/practice/480p15/partial_movie_files/PracticeOscillation/432527821_677551340_1906004487.mp4'

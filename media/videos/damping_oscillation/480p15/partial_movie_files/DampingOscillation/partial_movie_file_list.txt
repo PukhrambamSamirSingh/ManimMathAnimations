@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimComm/media/videos/damping_oscillation/480p15/partial_movie_files/DampingOscillation/238433677_2214101128_223132457.mp4'
+file 'file:D:/ManimComm/media/videos/damping_oscillation/480p15/partial_movie_files/DampingOscillation/432527821_2746621494_3498252186.mp4'
+file 'file:D:/ManimComm/media/videos/damping_oscillation/480p15/partial_movie_files/DampingOscillation/432527821_2896104800_1382399435.mp4'
+file 'file:D:/ManimComm/media/videos/damping_oscillation/480p15/partial_movie_files/DampingOscillation/432527821_1831374817_3801357114.mp4'

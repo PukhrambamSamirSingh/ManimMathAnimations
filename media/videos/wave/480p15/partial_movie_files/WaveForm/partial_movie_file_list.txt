@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimComm/media/videos/wave/480p15/partial_movie_files/WaveForm/1034911190_1902743057_1060258123.mp4'
+file 'file:D:/ManimComm/media/videos/wave/480p15/partial_movie_files/WaveForm/3569288601_239956674_2763480896.mp4'
+file 'file:D:/ManimComm/media/videos/wave/480p15/partial_movie_files/WaveForm/628803800_489921482_3809634836.mp4'
+file 'file:D:/ManimComm/media/videos/wave/480p15/partial_movie_files/WaveForm/3257436714_1831374817_2842806964.mp4'

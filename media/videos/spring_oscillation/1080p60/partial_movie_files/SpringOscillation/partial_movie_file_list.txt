@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimComm/media/videos/spring_oscillation/1080p60/partial_movie_files/SpringOscillation/3272876394_3330861241_223132457.mp4'
+file 'file:D:/ManimComm/media/videos/spring_oscillation/1080p60/partial_movie_files/SpringOscillation/734416844_1933011045_969158326.mp4'
+file 'file:D:/ManimComm/media/videos/spring_oscillation/1080p60/partial_movie_files/SpringOscillation/734416844_2968904986_471718262.mp4'
+file 'file:D:/ManimComm/media/videos/spring_oscillation/1080p60/partial_movie_files/SpringOscillation/734416844_3072472387_900197561.mp4'
+file 'file:D:/ManimComm/media/videos/spring_oscillation/1080p60/partial_movie_files/SpringOscillation/734416844_1395314047_1391059222.mp4'
+file 'file:D:/ManimComm/media/videos/spring_oscillation/1080p60/partial_movie_files/SpringOscillation/734416844_495359514_2415140712.mp4'
+file 'file:D:/ManimComm/media/videos/spring_oscillation/1080p60/partial_movie_files/SpringOscillation/734416844_1395314047_1360616187.mp4'
+file 'file:D:/ManimComm/media/videos/spring_oscillation/1080p60/partial_movie_files/SpringOscillation/734416844_495359514_1765266898.mp4'
+file 'file:D:/ManimComm/media/videos/spring_oscillation/1080p60/partial_movie_files/SpringOscillation/734416844_1395314047_580096140.mp4'
+file 'file:D:/ManimComm/media/videos/spring_oscillation/1080p60/partial_movie_files/SpringOscillation/734416844_495359514_3114123094.mp4'
+file 'file:D:/ManimComm/media/videos/spring_oscillation/1080p60/partial_movie_files/SpringOscillation/734416844_1395314047_3828132353.mp4'
+file 'file:D:/ManimComm/media/videos/spring_oscillation/1080p60/partial_movie_files/SpringOscillation/734416844_1831374817_1574449151.mp4'

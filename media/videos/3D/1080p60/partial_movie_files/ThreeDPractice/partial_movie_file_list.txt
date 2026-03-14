@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimComm/media/videos/3D/1080p60/partial_movie_files/ThreeDPractice/2544536139_2253218978_68480153.mp4'
+file 'file:D:/ManimComm/media/videos/3D/1080p60/partial_movie_files/ThreeDPractice/3395690346_1831374817_844308940.mp4'
+file 'file:D:/ManimComm/media/videos/3D/1080p60/partial_movie_files/ThreeDPractice/3395690346_3842850023_3600697099.mp4'
+file 'file:D:/ManimComm/media/videos/3D/1080p60/partial_movie_files/ThreeDPractice/3395690346_1831374817_1391779333.mp4'
+file 'file:D:/ManimComm/media/videos/3D/1080p60/partial_movie_files/ThreeDPractice/3368843445_2378986888_1494596157.mp4'
+file 'file:D:/ManimComm/media/videos/3D/1080p60/partial_movie_files/ThreeDPractice/3639213006_1169003323_2964173412.mp4'
+file 'file:D:/ManimComm/media/videos/3D/1080p60/partial_movie_files/ThreeDPractice/2422823399_3753719507_3483281084.mp4'
+file 'file:D:/ManimComm/media/videos/3D/1080p60/partial_movie_files/ThreeDPractice/2930189952_1687483585_1988640545.mp4'

@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimComm/media/videos/slope_curve/480p15/partial_movie_files/SlopeCurve/1185818338_3889992489_3465809469.mp4'
+file 'file:D:/ManimComm/media/videos/slope_curve/480p15/partial_movie_files/SlopeCurve/624642324_2408024828_2449540986.mp4'
+file 'file:D:/ManimComm/media/videos/slope_curve/480p15/partial_movie_files/SlopeCurve/624642324_2408024828_4166456076.mp4'
+file 'file:D:/ManimComm/media/videos/slope_curve/480p15/partial_movie_files/SlopeCurve/624642324_3292499081_2070828160.mp4'
+file 'file:D:/ManimComm/media/videos/slope_curve/480p15/partial_movie_files/SlopeCurve/624642324_2428774157_1519869429.mp4'

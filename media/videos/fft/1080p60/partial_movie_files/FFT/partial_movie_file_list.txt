@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimComm/media/videos/fft/1080p60/partial_movie_files/FFT/2257293077_168189896_223132457.mp4'
+file 'file:D:/ManimComm/media/videos/fft/1080p60/partial_movie_files/FFT/2135761390_3175727081_3153351293.mp4'
+file 'file:D:/ManimComm/media/videos/fft/1080p60/partial_movie_files/FFT/2135761390_2408024828_1086083724.mp4'
+file 'file:D:/ManimComm/media/videos/fft/1080p60/partial_movie_files/FFT/2135761390_873359843_4250640936.mp4'
+file 'file:D:/ManimComm/media/videos/fft/1080p60/partial_movie_files/FFT/2135761390_1839128356_4104604713.mp4'
+file 'file:D:/ManimComm/media/videos/fft/1080p60/partial_movie_files/FFT/2135761390_1753003571_796974932.mp4'
+file 'file:D:/ManimComm/media/videos/fft/1080p60/partial_movie_files/FFT/2135761390_2408024828_1013407796.mp4'
+file 'file:D:/ManimComm/media/videos/fft/1080p60/partial_movie_files/FFT/2135761390_1138219777_2602436924.mp4'
+file 'file:D:/ManimComm/media/videos/fft/1080p60/partial_movie_files/FFT/2135761390_1839128356_3651787876.mp4'
+file 'file:D:/ManimComm/media/videos/fft/1080p60/partial_movie_files/FFT/2135761390_4083550329_3614723572.mp4'
+file 'file:D:/ManimComm/media/videos/fft/1080p60/partial_movie_files/FFT/2135761390_2408024828_3835484656.mp4'

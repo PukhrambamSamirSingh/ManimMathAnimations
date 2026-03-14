@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimComm/media/videos/dynamic_electric_field/1080p60/partial_movie_files/DynamicElectricField/2257293077_2408024828_3258544573.mp4'
+file 'file:D:/ManimComm/media/videos/dynamic_electric_field/1080p60/partial_movie_files/DynamicElectricField/2135761390_3607749701_1311234676.mp4'
+file 'file:D:/ManimComm/media/videos/dynamic_electric_field/1080p60/partial_movie_files/DynamicElectricField/2135761390_2408024828_225159282.mp4'

@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimComm/media/videos/damping/1080p60/partial_movie_files/SpringOscillation/3272876394_17572363_223132457.mp4'
+file 'file:D:/ManimComm/media/videos/damping/1080p60/partial_movie_files/SpringOscillation/734416844_2550966295_2906324510.mp4'
+file 'file:D:/ManimComm/media/videos/damping/1080p60/partial_movie_files/SpringOscillation/734416844_348174226_2625321325.mp4'
+file 'file:D:/ManimComm/media/videos/damping/1080p60/partial_movie_files/SpringOscillation/734416844_2896104800_2383799356.mp4'
+file 'file:D:/ManimComm/media/videos/damping/1080p60/partial_movie_files/SpringOscillation/734416844_1831374817_1206521552.mp4'
